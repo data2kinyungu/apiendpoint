@@ -1,0 +1,12 @@
+[
+    {
+        "model" : "counties.task",
+        "pk" : 1,
+        "fields" : {
+            "slack_username" : "kinyungudenismashell",
+            "backend" : "True",
+            "age" : "21",
+            "bio" : "A young disciplined and orderly man looking to gain skills"
+        }
+    }
+]
